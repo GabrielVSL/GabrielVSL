@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-<!--
-**GabrielVSL/GabrielVSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software** na PUC Minas, compartilho projetos que refletem meu aprendizado e minha evolução na área.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que domino
+![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+## 🚀 O que estou aprendendo agora
+- **Node.js** para desenvolvimento de back-end.
+- **React** para construção de interfaces modernas e responsivas.
+- Conceitos de **testes de software** e **metodologias ágeis**.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+---
+
+
+Obrigado pela visita! 😄🚀
