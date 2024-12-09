@@ -36,8 +36,8 @@ Sou estudante de **Engenharia de Software** na **PUC Minas** e compartilho proje
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVSL&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVSL&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVSL&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVSL&layout=compact&theme=dark"/>
 </div>
 
 
