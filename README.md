@@ -77,18 +77,16 @@ Estou focado no aprimoramento das seguintes áreas:
 ## 📊 Estatísticas do GitHub
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <!-- Estatísticas Gerais do GitHub -->
-  <img height=180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVSL&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+  <img height=150em" src="https://github-readme-stats.vercel.app/api?username=GabrielVSL&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
 
-  <!-- Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielVSL&theme=dark" alt="GitHub Streak"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielVSL&theme=dark" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVSL&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVSL&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
 </div>
 
 
