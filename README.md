@@ -64,13 +64,13 @@ Um site dedicado a **filmes e séries**, onde os usuários podem explorar inform
 
 Estou focado no aprimoramento das seguintes áreas:
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="margin-top: 5px;" width="25" height="25"/>  **Java**: Estudo com foco em **Programação Orientada a Objetos (POO)**.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="margin-top: 5px;" width="15" height="15"/>  **Java**: Estudo com foco em **Programação Orientada a Objetos (POO)**.
 
 - 🔄 **Modelagem de Processos**: Aprendendo técnicas e metodologias para representar e melhorar processos.
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" style="margin-top: 5px;" width="25" height="25"/>  **Swift**: Finalizando um curso de Swift, expandindo meu conhecimento para o desenvolvimento de aplicativos iOS.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" style="margin-top: 5px;" width="15" height="15"/>  **Swift**: Finalizando um curso de Swift, expandindo meu conhecimento para o desenvolvimento de aplicativos iOS.
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="margin-top: 5px;" width="25" height="25"/>  **MySQL**: Aprendendo a trabalhar com banco de dados relacionais, focando em consultas e modelagem de dados.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="margin-top: 5px;" width="15" height="15"/>  **MySQL**: Aprendendo a trabalhar com banco de dados relacionais, focando em consultas e modelagem de dados.
 
 ---
 
