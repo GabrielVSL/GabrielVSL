@@ -26,10 +26,10 @@
 
 ## 🚀 Projetos
 
-### **[Gerenciador de Processos Aeroportuários](https://github.com/GabrielVSL/GPA-GerenciadorDeProcessosAeroportuarios)**
+### **[Gerenciador de Processos Aeroportuários](https://github.com/GabrielVSL/GSA-GerenciadorSistemaAeroportuario)**
 Um sistema de gerenciamento de aeroportos desenvolvido com **C++**. Ele inclui funcionalidades como **reserva de voos**, **criação de novos voos** e **persistência de dados** em arquivos `.txt`. Foi desenvolvido como parte de um trabalho interdisciplinar, integrando os conceitos de **Engenharia de Software** e **Algoritmos**.
 
-### **[Portal de Séries](https://github.com/GabrielVSL/PortalDeSeries)**
+### **Portal de Séries**
 Um site dedicado a **filmes e séries**, onde os usuários podem explorar informações sobre suas produções favoritas. O projeto foi feito utilizando **HTML**, **CSS** e **JavaScript** e está hospedado no **Vercel**. Acesse o site [aqui](https://portal-de-series-five.vercel.app/).
 
 ---
