@@ -47,6 +47,9 @@ Um site dedicado a **filmes e séries**, onde os usuários podem explorar inform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 </div>
+<div align="center">
+   <img src="img/swiftui.png" alt="SwiftUI" width="70" height="70" style="margin-top: 50px; object-fit: contain; object-position: center;"/>
+</div>
 
 ---
 
