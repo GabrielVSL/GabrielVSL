@@ -74,6 +74,22 @@ Estou focado no aprimoramento das seguintes áreas:
 
 ---
 
+## 🎧 Spotify
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px, height: 100vh;">
+  <!-- Spotify Profile -->
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21p5h6nt3tx7gf46zj5gbpaja&cover_image=true&theme=compact&show_offline=false&background_color=0e0e0e&interchange=false" alt="Spotify profile" />
+  </a>
+
+  <!-- Recently Played Songs -->
+  <a href="https://open.spotify.com/user/btrxlm9vlgm4f3g1gl8ldxs4a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21p5h6nt3tx7gf46zj5gbpaja" alt="Spotify recently played" style="height: 400px;" />
+  </a>
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
