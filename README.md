@@ -56,6 +56,8 @@ Um site dedicado a **filmes e séries**, onde os usuários podem explorar inform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
 ---
@@ -63,7 +65,7 @@ Um site dedicado a **filmes e séries**, onde os usuários podem explorar inform
 ## 🛠️ Ferramentas
 
 <div align="center">
-  <img src="img/apache_netbeans.png" alt="Apache NetBeans" width="35" height="40"/>
+  <img src="img/apache_netbeans.png" alt="Apache NetBeans"  height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
   <img width="12" />
@@ -73,8 +75,9 @@ Um site dedicado a **filmes e séries**, onde os usuários podem explorar inform
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="img/node-red-icon.png" width="40" height="40" alt="node-red logo"  />
-   
+  <img src="img/node-red-icon.png" height="40" alt="node-red logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
 ---
