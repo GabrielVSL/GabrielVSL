@@ -63,7 +63,7 @@ Um site dedicado a **filmes e séries**, onde os usuários podem explorar inform
 ## 🛠️ Ferramentas
 
 <div align="center">
-  <img src="img/apache_netbeans.png" alt="Apache NetBeans" width="40" height="40"/>
+  <img src="img/apache_netbeans.png" alt="Apache NetBeans" width="35" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
   <img width="12" />
@@ -72,6 +72,9 @@ Um site dedicado a **filmes e séries**, onde os usuários podem explorar inform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="img/node-red-icon.png" width="40" height="40" alt="node-red logo"  />
+   
 </div>
 
 ---
