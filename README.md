@@ -136,6 +136,7 @@ Atualmente aprofundando **C# / .NET**, **Java com POO** e levando o portfólio p
 
 ## ⏱️ WakaTime
 
+carregando dados...
 ---
 
 <div align="center">
