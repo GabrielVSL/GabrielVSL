@@ -56,46 +56,57 @@ Atualmente aprofundando **C# / .NET**, **Java com POO** e levando o portfólio p
 
 [![Portfólio](https://img.shields.io/badge/Ver_no_Portfólio-6c47ff?style=flat-square&logo=vercel&logoColor=white)](https://dev-lopes.vercel.app)
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-<h4>🎨 Frontend</h4>
+## 🛠️ Tech Stack
 
-[![Frontend](https://skillicons.dev/icons?i=react,svelte,js,ts,html,css,tailwind)](https://skillicons.dev)
-
-<h4>🎮 3D & Animação</h4>
-
-[![3D](https://skillicons.dev/icons?i=threejs)](https://skillicons.dev)
-
-<h4>⚙️ Backend</h4>
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,cs,dotnet,java,spring)](https://skillicons.dev)
-<img src="https://imgs.search.brave.com/Ldkkh6AG41N1W_3s_YpHbclKoewY1lIPi73GE-nyx9M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9ub2RlLXJlZC0y/LnN2Zw" height="48"/>
-
-<h4>🗄️ Banco de Dados</h4>
-
-[![DB](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
-<img src="https://imgs.search.brave.com/Tr3mxSNVqTRO3uxNZ3yVtD5kMTmSqsFImo5k6QE_nU4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90dXJz/by50ZWNoL19uZXh0/L3N0YXRpYy9tZWRp/YS90dXJzby1sb2dv/bWFyay1hcXVhLmYx/NDBjZjRjLnN2Zw" height="48"/>
-
-<h4>📱 Mobile</h4>
-
-[![Mobile](https://skillicons.dev/icons?i=react,flutter,swift)](https://skillicons.dev)
-
-<h4>☁️ Deploy & Automação</h4>
-
-[![Deploy](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
-<img src="https://www.make.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fun655fb9wln6%2F5drzJqeJykwoS5uqQRr4in%2F6a1e399130f279aee935213d5df437a5%2FCopy_of_Logo-RGB-Color_2x.png&w=384&q=75" height="48"/>
-<img src="https://imgs.search.brave.com/wTbUPID3uDJ7YVXrhd-_bOoLMfxTm0UXPyA-6elNGIo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9icmFu/ZGxvZ28ub3JnL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA1/L01pY3Jvc29mdC1Q/b3dlci1BdXRvbWF0/ZS1JY29uLTIwMjAu/cG5n" height="48"/>
-
-<h4>🖥️ Sistemas & Infraestrutura</h4>
-
-[![OS](https://skillicons.dev/icons?i=linux,windows,apple)](https://skillicons.dev)
-<img src="https://imgs.search.brave.com/x30uluv2FGwdrBVlA94YFReV3Raw2ml7mSDF4adk-Ps/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9zdmcv/Y2FzYW9zLnN2Zw" height="38"/>
-
-<h4>🔧 Ferramentas</h4>
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=react,svelte,js,ts,html,css,tailwind" height="48" valign="middle" />
+    </td>
+    <td align="center" width="50%">
+      <h4>⚙️ Backend</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java,spring" height="48" valign="middle" />
+      <img src="https://cdn.worldvectorlogo.com/logos/node-red-2.svg" height="48" valign="middle" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>📱 Mobile</h4>
+      <img src="https://skillicons.dev/icons?i=react,flutter,swift" height="48" valign="middle" />
+    </td>
+    <td align="center" width="50%">
+      <h4>🗄️ Banco de Dados</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" height="48" valign="middle" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🖥️ Sistemas & Infraestrutura</h4>
+      <img src="https://skillicons.dev/icons?i=linux,windows,apple" height="48" valign="middle" />
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/casaos.svg" height="38" valign="middle" />
+    </td>
+    <td align="center" width="50%">
+      <h4>☁️ Deploy & Automação</h4>
+      <img src="https://skillicons.dev/icons?i=vercel" height="48" valign="middle" />
+      <img src="https://turso.tech/_next/static/media/turso-logomark-aqua.f140cf4c.svg" height="48" valign="middle" />
+      <img src="https://images.ctfassets.net/un655fb9wln6/5drzJqeJykwoS5uqQRr4in/6a1e399130f279aee935213d5df437a5/Copy_of_Logo-RGB-Color_2x.png" height="48" valign="middle" />
+      <img src="https://brandlogo.org/wp-content/uploads/2025/05/Microsoft-Power-Automate-Icon-2020.png" height="48" valign="middle" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🔧 Ferramentas</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="48" valign="middle" />
+    </td>
+    <td align="center" width="50%">
+      <h4>🎮 3D & Animação</h4>
+      <img src="https://skillicons.dev/icons?i=threejs" height="48" valign="middle" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -123,21 +134,20 @@ Atualmente aprofundando **C# / .NET**, **Java com POO** e levando o portfólio p
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=GabrielVSL&hide_title=false&show_icons=true&include_all_commits=true&theme=midnight-purple&locale=pt-br&hide_border=true&custom_title=Stats" height="135"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=GabrielVSL&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true" height="150"/>
-</div>
-
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.shion.dev/api?username=GabrielVSL&hide_title=false&show_icons=true&include_all_commits=true&theme=midnight-purple&locale=pt-br&hide_border=true&custom_title=Stats" width="425px" alt="GitHub Stats" />
+      <br>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs?username=GabrielVSL&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true" width="425px" alt="Linguagens mais usadas" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.shion.dev/api/wakatime?username=GabrielVSL&theme=midnight-purple&layout=compact&hide_border=true" alt="WakaTime Stats" />
+    </td>
+  </tr>
+</table>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielVSL&theme=high-contrast&area=true&hide_border=true&custom_title=Commits" height="280"/>
-</div>
-
----
-
-## ⏱️ WakaTime
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=GabrielVSL&theme=midnight-purple&layout=compact&hide_border=true" height="150"/>
 </div>
 
 ---
