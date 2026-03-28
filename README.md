@@ -1,77 +1,101 @@
 <div align="center">
- 
+
 <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=34&pause=1000&color=6C47FF&center=true&vCenter=true&width=700&height=60&lines=Gabriel+Victor+Souza+Lopes;Engenharia+de+Software+%7C+PUC+Minas;Full+Stack+Developer+%F0%9F%9A%80&cursor=|" />
-
-
-
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-dev--lopes.vercel.app-6c47ff?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-lopes.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielvictorsouza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielvictorsouza)
 [![Gmail](https://img.shields.io/badge/Gmail-gabrieelvictor26-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieelvictor26@gmail.com)
- 
+
 </div>
- 
+
 ---
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor em formação com foco em aplicações **full-stack**, estudante de Engenharia de Software na **PUC Minas** e técnico de TI no **Colégio São Paulo da Cruz**. Gosto de construir produtos do zero — da modelagem da API até os componentes de interface — e de escrever código que resolve problemas reais.
+Sou o Gabriel — desenvolvedor full-stack em formação na **PUC Minas**, técnico de TI no **Colégio São Paulo da Cruz** e alguém que não consegue parar de construir coisas.
 
-Atualmente explorando **C# / .NET**, **Java com POO**, **Swift para iOS** e **MySQL**. Inglês avançado.
+Gosto do processo inteiro: modelar a API, projetar o banco, montar a interface e ver tudo funcionando junto. Tenho familiaridade com stacks bem diferentes — de automações com Make e Node-RED até experiências 3D com Three.js e R3F — e curto explorar territórios novos, seja iOS com Swift ou infraestrutura com CasaOS.
+
+Atualmente aprofundando **C# / .NET**, **Java com POO** e levando o portfólio pessoal para outro nível com **Three.js + React Three Fiber**. Inglês avançado.
+
+---
+
+## 🔭 Atualmente
+
+- 🌐 Reconstruindo meu portfólio com experiências **3D interativas** em Three.js / R3F
+- 📚 Cursando **Engenharia de Software** na PUC Minas
+- 🏫 Mantendo e desenvolvendo sistemas internos no **Colégio São Paulo da Cruz**
+- 📱 Explorando **Swift para iOS** e aprofundando **Java com POO**
 
 ---
 
 ## 🚀 Projetos
 
-### 🍽️ [Orderly — Sistema de Pedidos](https://dev-lopes.vercel.app) `Fullstack`
+### 🍽️ Orderly — Sistema de Pedidos `Fullstack`
 > Aplicação full-stack com arquitetura de componentes reutilizáveis. Backend em **Node/Express** com persistência via **Sequelize + PostgreSQL**. Frontend com **Context API** do React como única fonte da verdade do carrinho.
 
 `Node.js` `Express` `React` `PostgreSQL`
 
+[![Portfólio](https://img.shields.io/badge/Ver_no_Portfólio-6c47ff?style=flat-square&logo=vercel&logoColor=white)](https://dev-lopes.vercel.app)
+
 ---
 
-### 🎬 [BHFlix](https://dev-lopes.vercel.app) `Frontend Avançado`
+### 🎬 BHFlix `Frontend Avançado`
 > Catálogo de mídia dark mode premium. Usa **BFF na Vercel** para mascarar chaves de API, sistema "Minha Lista" com `localStorage` e busca com **Debounce**.
 
 `React` `Vite` `Tailwind` `TMDB API`
 
+[![Portfólio](https://img.shields.io/badge/Ver_no_Portfólio-6c47ff?style=flat-square&logo=vercel&logoColor=white)](https://dev-lopes.vercel.app)
+
 ---
 
-### 🏫 [Portal CSPC](https://dev-lopes.vercel.app) `Desenvolvimento Web`
-> Portal interativo para estudantes com arquitetura baseada em **JSON dinâmico**, permitindo adicionar conteúdo sem alterar o código-fonte.
+### 🏫 Portal CSPC `Desenvolvimento Web`
+> Portal interativo para estudantes com arquitetura baseada em **JSON dinâmico**, permitindo adicionar conteúdo sem alterar o código-fonte. Reduziu chamados operacionais em **30%**.
 
 `React` `Tailwind CSS` `JSON`
 
----
+[![Portfólio](https://img.shields.io/badge/Ver_no_Portfólio-6c47ff?style=flat-square&logo=vercel&logoColor=white)](https://dev-lopes.vercel.app)
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<h4>Frontend</h4>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<h4>🎨 Frontend</h4>
 
-<h4>Backend</h4>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+[![Frontend](https://skillicons.dev/icons?i=react,svelte,js,ts,html,css,tailwind)](https://skillicons.dev)
 
-<h4>Banco de Dados & Mobile</h4>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<h4>🎮 3D & Animação</h4>
 
-<h4>Ferramentas</h4>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+[![3D](https://skillicons.dev/icons?i=threejs)](https://skillicons.dev)
+
+<h4>⚙️ Backend</h4>
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,cs,dotnet,java,spring)](https://skillicons.dev)
+<img src="https://imgs.search.brave.com/Ldkkh6AG41N1W_3s_YpHbclKoewY1lIPi73GE-nyx9M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9ub2RlLXJlZC0y/LnN2Zw" height="48"/>
+
+<h4>🗄️ Banco de Dados</h4>
+
+[![DB](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+<img src="https://imgs.search.brave.com/Tr3mxSNVqTRO3uxNZ3yVtD5kMTmSqsFImo5k6QE_nU4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90dXJz/by50ZWNoL19uZXh0/L3N0YXRpYy9tZWRp/YS90dXJzby1sb2dv/bWFyay1hcXVhLmYx/NDBjZjRjLnN2Zw" height="48"/>
+
+<h4>📱 Mobile</h4>
+
+[![Mobile](https://skillicons.dev/icons?i=react,flutter,swift)](https://skillicons.dev)
+
+<h4>☁️ Deploy & Automação</h4>
+
+[![Deploy](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+<img src="https://www.make.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fun655fb9wln6%2F5drzJqeJykwoS5uqQRr4in%2F6a1e399130f279aee935213d5df437a5%2FCopy_of_Logo-RGB-Color_2x.png&w=384&q=75" height="48"/>
+<img src="https://imgs.search.brave.com/wTbUPID3uDJ7YVXrhd-_bOoLMfxTm0UXPyA-6elNGIo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9icmFu/ZGxvZ28ub3JnL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA1/L01pY3Jvc29mdC1Q/b3dlci1BdXRvbWF0/ZS1JY29uLTIwMjAu/cG5n" height="48"/>
+
+<h4>🖥️ Sistemas & Infraestrutura</h4>
+
+[![OS](https://skillicons.dev/icons?i=linux,windows,apple)](https://skillicons.dev)
+<img src="https://imgs.search.brave.com/x30uluv2FGwdrBVlA94YFReV3Raw2ml7mSDF4adk-Ps/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9zdmcv/Y2FzYW9zLnN2Zw" height="38"/>
+
+<h4>🔧 Ferramentas</h4>
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
 
 </div>
 
@@ -84,6 +108,7 @@ Atualmente explorando **C# / .NET**, **Java com POO**, **Swift para iOS** e **My
 - Gerenciamento de contas em plataformas educacionais (Outlook, Bernoulli, Cambridge One)
 - Implementação de checklist que manteve ~99% de disponibilidade dos laboratórios
 - Desenvolvimento de portal web interno que **reduziu chamados operacionais em 30%**
+- Estruturação de servidor **CasaOS** para gerenciamento de serviços internos
 
 ---
 
@@ -109,6 +134,19 @@ Atualmente explorando **C# / .NET**, **Java com POO**, **Swift para iOS** e **My
 
 ---
 
+## ⏱️ WakaTime
+
+---
+
 <div align="center">
-  <i>Aberto a oportunidades de estágio em desenvolvimento · <a href="mailto:gabrieelvictor26@gmail.com">gabrieelvictor26@gmail.com</a></i>
+
+### 💼 Aberto a oportunidades de estágio em desenvolvimento
+
+Estou buscando minha primeira experiência profissional como desenvolvedor.
+Se você tem uma vaga ou quer trocar uma ideia, me manda uma mensagem!
+
+[![Gmail](https://img.shields.io/badge/Fala_comigo-gabrieelvictor26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieelvictor26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielvictorsouza)
+
 </div>
+
