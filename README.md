@@ -124,8 +124,8 @@ Atualmente aprofundando **C# / .NET**, **Java com POO** e levando o portfólio p
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielVSL&hide_title=false&show_icons=true&include_all_commits=true&theme=midnight-purple&locale=pt-br&hide_border=true&custom_title=Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielVSL&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=GabrielVSL&hide_title=false&show_icons=true&include_all_commits=true&theme=midnight-purple&locale=pt-br&hide_border=true&custom_title=Stats" height="135"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=GabrielVSL&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true" height="150"/>
 </div>
 
 <div align="center">
@@ -136,7 +136,10 @@ Atualmente aprofundando **C# / .NET**, **Java com POO** e levando o portfólio p
 
 ## ⏱️ WakaTime
 
-carregando dados...
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=GabrielVSL&theme=midnight-purple&layout=compact&hide_border=true" height="150"/>
+</div>
+
 ---
 
 <div align="center">
