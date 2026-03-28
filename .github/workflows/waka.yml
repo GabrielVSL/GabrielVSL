@@ -1,0 +1,22 @@
+name: WakaTime Stats
+
+on:
+  schedule:
+    # Atualiza automaticamente a cada 12 horas
+    - cron: '0 */12 * * *'
+  # Permite que você rode a ação manualmente clicando num botão
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Atualizar README com estatísticas
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # Usa esse estilo de bloco que fica bonito pra caramba
+          SHOW_TIME: true
+          SHOW_TOTAL: true
